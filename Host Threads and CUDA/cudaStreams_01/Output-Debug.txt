@@ -1,0 +1,55 @@
+﻿'cudaStreams_01.exe' (Win32): Loaded 'D:\Codes\CUDA\GPU-Computing-For-Finance-master\Host Threads and CUDA\cudaStreams_01\Debug\cudaStreams_01.exe'. Symbols loaded.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'D:\Codes\CUDA\GPU-Computing-For-Finance-master\Host Threads and CUDA\cudaStreams_01\Debug\cudart32_80.dll'. Module was built without symbols.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvcuda.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvfatbinaryLoader.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\dwmapi.dll'
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvapi.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxgi.dll'. Cannot find or open the PDB file.
+'cudaStreams_01.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvptxJitCompiler.dll'. Cannot find or open the PDB file.
+The thread 0x26dc has exited with code 0 (0x0).
+The thread 0x40b0 has exited with code 0 (0x0).
+The thread 0x3b00 has exited with code 0 (0x0).
+The thread 0x17ac has exited with code 0 (0x0).
+The thread 0x3b0 has exited with code 0 (0x0).
+The thread 0xdc has exited with code 0 (0x0).
+The program '[1584] cudaStreams_01.exe' has exited with code 0 (0x0).
